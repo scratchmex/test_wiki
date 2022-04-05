@@ -1,3 +1,3 @@
 # test_wiki
 
-## [Proyectos](proyectos/)
+## [Proyectos](proyectos)
