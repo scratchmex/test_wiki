@@ -1,3 +1,3 @@
 # Proyectos
 
-1. [MIBU](mibu/)
+1. [MIBU](mibu/README.md)
